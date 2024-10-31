@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on fresh data projects
 - 📫 How to reach me lam.t.valerie@gmail.com
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I made bracelets, crochet, and scrapbook
+- ⚡ Fun fact: I make bracelets, crochet, and scrapbook
 
 <!---
 lamva2/lamva2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
