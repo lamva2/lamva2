@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Valerie!
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning data structures, computer graphics, web dev, and new crafting techniques
+- 🌱 I’m currently learning computer architecture & assembly, analysis of algorithms, software engineering, and new crafting techniques
 - 💞️ I’m looking to collaborate on fresh data projects
 - 📫 How to reach me lam.t.valerie@gmail.com
 - 😄 Pronouns: she/her/hers
